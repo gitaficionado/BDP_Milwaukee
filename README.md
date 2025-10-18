@@ -13,16 +13,16 @@ The main hom page (header/banner) shows the organization’s name and mission ("
 
 
 This screen capture represents the landing page of the Business Development Partnership (BDP) Milwaukee site, showcasing the strategic focus on local economic intelligence, partnership visibility, and community engagement. This page was designed to immediately establish the organization's credibility and relevance to its target audience: Milwaukee professionals and business leaders.
-<br>
+
 <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/c3c9ebd9-c75d-4239-8323-56a4712b2c25" />
 
 
 This screen capture highlights the Event Calendar section of the Business Development Partnership (BDP) Milwaukee website, demonstrating the platform’s capacity to manage physical gatherings and integrate social networking to maximize member participation. This functionality was essential for realizing the BDP's core purpose of facilitating "engaging networking activity filled with great energy and enthusiasm".
-<br>
+
 <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/43872983-186c-4e5f-96e2-03992530ad47" />
 
 This screen capture displays the crucial top section of the BDP Milwaukee website, encompassing the site identity, primary navigation, sponsor visibility, and dual-focus news strategy. This area was designed to immediately establish the organization's credibility, global awareness, and deep local roots.
-<br>
+
 <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/a3a5c1ac-3a5a-4f46-9027-b8ad7047379b" />
 
 Overall, the BDP Milwaukee project This project encompassed the design, development, and ongoing maintenance of the online presence for the Business Development Partnership (BDP) Milwaukee, a non-profit organization. The mission of the BDP was dedicated to fostering business networking, local economic growth, and community engagement in the greater Milwaukee area. The site’s primary goal was to act as a central hub for civic and business networking, with the clear objectives of driving organizational efficiency, actively attracting corporate sponsorship, and maintaining high levels of active member engagement. Ultimately, the platform was crucial for facilitating high-energy networking events, sharing vital economic news, and showcasing local business opportunities.
