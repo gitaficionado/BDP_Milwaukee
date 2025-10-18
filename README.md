@@ -8,12 +8,15 @@ The BDP Milwaukee site was engineered using the Drupal Content Management System
 To ensure a professional and impactful user experience, I utilized my design expertise to create a custom-designed theme. This was essential for providing a professional, engaging aesthetic that aligned with the BDP’s core goal of Inspiring Greatness Through Diversity. Lastly, for content strategy, I managed and aggregated key information feeds, including both International Business News and specific Milwaukee Business News, successfully positioning the BDP site as a vital source of economic intelligence for its members.
 
 The main hom page (header/banner) shows the organization’s name and mission ("Inspiring Greatness Through Diversity").
+br
 <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/61e0db17-b73a-4df4-88ee-0cd3b4cfe6d7" />
 
 
 This screen capture represents the landing page of the Business Development Partnership (BDP) Milwaukee site, showcasing the strategic focus on local economic intelligence, partnership visibility, and community engagement. This page was designed to immediately establish the organization's credibility and relevance to its target audience: Milwaukee professionals and business leaders.
+br
 <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/c3c9ebd9-c75d-4239-8323-56a4712b2c25" />
 
 
 This screen capture highlights the Event Calendar section of the Business Development Partnership (BDP) Milwaukee website, demonstrating the platform’s capacity to manage physical gatherings and integrate social networking to maximize member participation. This functionality was essential for realizing the BDP's core purpose of facilitating "engaging networking activity filled with great energy and enthusiasm".
+br
 <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/43872983-186c-4e5f-96e2-03992530ad47" />
