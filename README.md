@@ -8,7 +8,7 @@ The BDP Milwaukee site was engineered using the Drupal Content Management System
 To ensure a professional and impactful user experience, I utilized my design expertise to create a custom-designed theme. This was essential for providing a professional, engaging aesthetic that aligned with the BDP’s core goal of Inspiring Greatness Through Diversity. Lastly, for content strategy, I managed and aggregated key information feeds, including both International Business News and specific Milwaukee Business News, successfully positioning the BDP site as a vital source of economic intelligence for its members.
 
 The main hom page (header/banner) shows the organization’s name and mission ("Inspiring Greatness Through Diversity").
-<br>
+
 <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/61e0db17-b73a-4df4-88ee-0cd3b4cfe6d7" />
 
 
