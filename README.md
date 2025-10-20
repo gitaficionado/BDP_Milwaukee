@@ -1,4 +1,4 @@
-# BDP_Milwaukee
+# Drupal: BDP_Milwaukee
 This project encompassed the design, development, and ongoing maintenance of the online presence for the Business Development Partnership (BDP) Milwaukee, a non-profit organization. The mission of the BDP was dedicated to fostering business networking, local economic growth, and community engagement in the greater Milwaukee area. The site’s primary goal was to act as a central hub for civic and business networking, with the clear objectives of driving organizational efficiency, actively attracting corporate sponsorship, and maintaining high levels of active member engagement. Ultimately, the platform was crucial for facilitating high-energy networking events, sharing vital economic news, and showcasing local business opportunities.
 
 Technology and Custom Development
